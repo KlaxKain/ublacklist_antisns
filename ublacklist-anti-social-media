@@ -1,7 +1,7 @@
 ---
 name: I Quit Social Media
 description: Removes (most) social media site
-homepage: https://github.com/KlaxKain/ublacklist-anti-sns
+homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
 ---
 
 *://*.tiktok.com/*
