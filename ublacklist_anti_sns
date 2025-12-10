@@ -1,6 +1,7 @@
 ---
 name: I Hate SNS
-description: Hides (most) SNS
+description: Removes (most) SNS site
+homepage: https://github.com/KlaxKain/ublacklist-anti-sns
 ---
 
 *://*.tiktok.com/*
