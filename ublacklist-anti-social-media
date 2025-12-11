@@ -15,6 +15,8 @@ homepage: https://github.com/KlaxKain/ublacklist-anti-social-media
 *://*.threads.com/*
 *://www.snapchat.com/*
 *://www.snap.com/*
+*://www.twitch.tv/*
+*://kick.com/*
 
 #Annoying-Religions
 *://www.jw.org/*
